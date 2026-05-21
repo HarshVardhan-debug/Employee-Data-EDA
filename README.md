@@ -81,35 +81,6 @@ The dataset contains employee-related information such as:
 
 ---
 
-## 🚀 How to Run the Project
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/employee-eda.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd employee-eda
-```
-
-3. Install dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-4. Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-5. Run the notebook file
-
----
 
 ## 📷 Project Preview
 
